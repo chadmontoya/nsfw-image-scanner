@@ -1,0 +1,10 @@
+.env
+*.local
+local_secrets/
+
+*.json
+!package.json
+
+__pycache__/
+*.py[cod]
+*$py.class
